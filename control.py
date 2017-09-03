@@ -410,8 +410,8 @@ if __name__ == "__main__":
     with sess:
         sess.run(ct.init)
 
-        #detectOnImg(ct, "demo")
-        detectOnImg(ct, "test_set", 750, 948)
+        detectOnImg(ct, "demo")
+        #detectOnImg(ct, "test_set", 750, 948)
 
         #initTrain(ct, model, train, 1600, 100)
         #detectOnImg(ct, "ft_generator")
