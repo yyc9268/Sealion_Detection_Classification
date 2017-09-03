@@ -1,6 +1,4 @@
-# Sealion detection and classification
-
-The purpose of this code is detecting sealions on the image and classify it.
+## Sealion detection and classification
 
 This code was used for [NOAA sealion competition](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count) in KAGGLE and final result is **58th**.
 
@@ -33,12 +31,25 @@ pre-trained model download link : https://drive.google.com/open?id=0Bwaxr_eelTFy
 ```
 You have to depress the 'sealion_count_model.zip' into 'input' directory.
 
-## Running the tests
+### Running the tests
 
 You can run the control.py (EX. python2 control.py).
 
 The code will show you the detection&classification result on sample images.
 
-## Acknowledgments
+
+### About this code
+
+The detector is applied on image through sliding-window method. And there are some tricks to make it faster.
+
+The network is like below. The network is separated into detection part and classification part.
+![network](ImgForGit/network.png)
+
+Here are several results of code.
+![result1](ImgForGit/result1.png)
+![result2](ImgForGit/result2.png)
+![result3](ImgForGit/result3.png)
+
+### Acknowledgments
 
 This repository is being updated frequently.
