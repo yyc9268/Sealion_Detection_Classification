@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ycyoon/PycharmProject/sealion_count/input/detection16.ckpt"
+all_model_checkpoint_paths: "/home/ycyoon/PycharmProject/sealion_count/input/detection16.ckpt"
