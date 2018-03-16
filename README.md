@@ -1,6 +1,6 @@
 # Sealion detection and classification
 
-This code was used for [NOAA sealion competition](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count) in KAGGLE and final result is **58th**.
+This code was used for [NOAA sealion competition](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count) which was held in KAGGLE. <br/>Final result is **58th** among 385 participants.
 
 ## Citing this code
 
@@ -54,16 +54,16 @@ The code will show you the detection&classification result on sample images.
 ## About this code
 
 The detector is applied on image through sliding-window method. And there are some tricks to make it faster.
-<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework1.png" width="800">
-<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework2.png" width="800">
+<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework1.png" width="600">
+<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework2.png" width="600">
 
 
-The network is like below. The network is separated into detection part and classification part.
-<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/network.png" width="800">
+The detector network is like below. The network is separated into detection part and classification part.
+<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/network.png" width="600">
 
 
 Here are several results of code.<br/>
-<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/results.png" width="500">
+<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/results.png" width="400">
 
 ## Acknowledgments
 
