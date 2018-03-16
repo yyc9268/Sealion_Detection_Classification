@@ -1,8 +1,19 @@
 ## Sealion detection and classification
 
+This code was used for [NOAA sealion competition](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count) in KAGGLE and final result is **58th**.
+
+## Citing this code
+
 Detail is described in the [paper](http://vi.kaist.ac.kr/wp-content/uploads/2018/01/iw-fcv2018_final_youngchul.pdf)
 
-This code was used for [NOAA sealion competition](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count) in KAGGLE and final result is **58th**.
+```
+@inproceedings{IWFCV18sealion,
+  title = {Animal Detection in Huge Air-view Images using CNN-based Sliding Window},
+  author = {Young-Chul Yoon and Kuk-Jin Yoon},
+  booktitle = {International Workshops on Frontiers of Computer Vision},
+  year = {2018}
+}
+```
 
 ### Prerequisites
 
@@ -43,15 +54,15 @@ The code will show you the detection&classification result on sample images.
 ### About this code
 
 The detector is applied on image through sliding-window method. And there are some tricks to make it faster.
+![framework1](images/framework1.png)
+![framework2](images/framework2.png)
 
 The network is like below. The network is separated into detection part and classification part.
-![network](ImgForGit/network.png)
+![network](images/framework1.png)
 
 Here are several results of code.
-![result1](ImgForGit/result1.png)
-![result2](ImgForGit/result2.png)
-![result3](ImgForGit/result3.png)
+![results](images/results.png)
 
 ### Acknowledgments
 
-This repository is being updated frequently.
+This repository will be updated frequently.
