@@ -54,13 +54,14 @@ The code will show you the detection&classification result on sample images.
 ### About this code
 
 The detector is applied on image through sliding-window method. And there are some tricks to make it faster.
-![framework1](images/framework1.png)
-![framework2](images/framework2.png)
+<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework1.png" width="800">
+<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework2.png" width="800">
 
 The network is like below. The network is separated into detection part and classification part.
-![network](images/framework1.png)
+<img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/network.png" width="800">
 
 Here are several results of code.
+
 ![results](images/results.png)
 
 ### Acknowledgments
