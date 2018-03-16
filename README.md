@@ -1,5 +1,6 @@
 ## Sealion detection and classification
 
+Detail is described in the [paper](http://vi.kaist.ac.kr/wp-content/uploads/2018/01/iw-fcv2018_final_youngchul.pdf)
 This code was used for [NOAA sealion competition](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count) in KAGGLE and final result is **58th**.
 
 ### Prerequisites
