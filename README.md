@@ -1,3 +1,6 @@
+
+**Winning the best student paper award(2nd place) in IW-FCV2018!**
+
 # Sealion detection and classification
 
 This code was used for [NOAA sealion competition](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count) which was held in KAGGLE. <br/>Final result is **58th** among 385 participants.
