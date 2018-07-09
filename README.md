@@ -70,4 +70,5 @@ Here are several example results of code.<br/>
 
 ## Acknowledgments
 
-This repository will be updated frequently.
+This research is supported by Ministry of Culture, Sports and Tourism(MCST) and 
+Korea Creative Content Agency(KOCCA) in the Culture Technology(CT) Research & Development Program 2017
