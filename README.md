@@ -7,7 +7,7 @@ This code was used for [NOAA sealion competition](https://www.kaggle.com/c/noaa-
 
 ## Citing this code
 
-Detail is described in the [paper](http://vi.kaist.ac.kr/wp-content/uploads/2018/01/iw-fcv2018_final_youngchul.pdf)
+Detail is described in the [paper](http://143.248.50.142/wp-content/uploads/2018/01/iw-fcv2018_final_youngchul.pdf)
 
 ```
 @inproceedings{IWFCV18sealion,
@@ -49,10 +49,8 @@ You have to depress the 'sealion_count_model.zip' into 'input' directory.
 
 ## Running the tests
 
-You can run the control.py (EX. python2 control.py).
-
+You can run the control.py (EX. python2 control.py).  
 The code will show you the detection&classification result on sample images.
-
 
 ## About this code
 
@@ -60,10 +58,8 @@ The detector is applied on image through sliding-window method.
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework1.png" width="600">
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework2.png" width="600">
 
-
 The detector network is like below. The network is separated into detection part and classification part.
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/network.png" width="600">
-
 
 Here are several example results of code.<br/>
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/results.png" width="400">
