@@ -1,5 +1,5 @@
 
-**Winning the best student paper award(2nd place) in IW-FCV2018!**
+**Winning the best student paper awar in IW-FCV2018!**
 
 # Sealion detection and classification
 
