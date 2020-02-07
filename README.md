@@ -7,7 +7,7 @@ This code was used for [NOAA sealion competition](https://www.kaggle.com/c/noaa-
 
 ## Citing this code
 
-Detail is described in the [paper](http://143.248.50.142/wp-content/uploads/2018/01/iw-fcv2018_final_youngchul.pdf)
+Please refer to following paper for detail [paper](http://143.248.50.142/wp-content/uploads/2018/01/iw-fcv2018_final_youngchul.pdf)
 
 ```
 @inproceedings{IWFCV18sealion,
@@ -54,17 +54,17 @@ The code will show you the detection&classification result on sample images.
 
 ## About this code
 
-The detector is applied on image through sliding-window method.
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework1.png" width="600">
+The detector is applied on image through sliding-window method.
 
-The inference is separated into detection and classification stage.
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework2.png" width="600">
+The inference is separated into detection and classification stage.
 
-The detailed detection network structure.
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/network.png" width="600">
+The detailed detection network structure.
 
-Here are several results example of the code.<br/>
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/results.png" width="400">
+Here are several results example of the code.<br/>
 
 ## Acknowledgments
 
