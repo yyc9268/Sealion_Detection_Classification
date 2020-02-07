@@ -55,17 +55,17 @@ The code will show you the detection&classification result on sample images.
 ## About this code
 
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework1.png" width="600">
-The detector is applied on image through sliding-window method.\
-\
+The detector is applied on image through sliding-window method.<br/><br/>
+
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/framework2.png" width="600">
-The inference is separated into detection and classification stage.\
-\
+The inference is separated into detection and classification stage.<br/><br/>
+
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/network.png" width="600">
-The detailed detection network structure.\
-\
+The detailed detection network structure.<br/><br/>
+
 <img src="https://github.com/yyc9268/Sealion_Detection_Classification/blob/master/images/results.png" width="400">
-Here are several results example of the code.\
-\
+Here are several results example of the code.<br/><br/>
+
 ## Acknowledgments
 
 This research is supported by Ministry of Culture, Sports and Tourism(MCST) and 
